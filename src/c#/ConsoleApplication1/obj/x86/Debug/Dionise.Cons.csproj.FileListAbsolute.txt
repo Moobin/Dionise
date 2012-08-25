@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\bin\Debug\Dionise.Cons.exe.config
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\bin\Debug\Dionise.Cons.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\bin\Debug\Dionise.Cons.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\bin\Debug\Dionise.dll
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\bin\Debug\Dionise.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\obj\x86\Debug\Dionise.Cons.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\ConsoleApplication1\obj\x86\Debug\Dionise.Cons.pdb
