@@ -1,0 +1,5 @@
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\Dionise\bin\Debug\Dionise.dll
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\Dionise\bin\Debug\Dionise.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\Dionise\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\Dionise\obj\Debug\Dionise.dll
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Dionise\Dionise\obj\Debug\Dionise.pdb
